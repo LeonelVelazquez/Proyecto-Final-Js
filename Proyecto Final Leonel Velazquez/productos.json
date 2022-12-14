@@ -1,0 +1,43 @@
+[
+	{
+		"precio": 1500,
+		"id": 1,
+		"title": "Vaso Bad Bunny",
+		"thumbnailUrl": "imgs/bad.png"
+	},
+
+	{
+		"precio": 1000,
+		"id": 2,
+		"title": "Taza Diego y Messi",
+		"thumbnailUrl": "imgs/futbol.png"
+	},
+
+	{
+		"precio": 2000,
+		"id": 3,
+		"title": "Remera Gatito",
+		"thumbnailUrl": "imgs/remeras.png"
+	},
+
+	{
+		"precio": 500,
+		"id": 4,
+		"title": "Set Jardin",
+		"thumbnailUrl": "imgs/grizzy.png"
+	},
+
+	{
+		"precio": 900,
+		"id": 4,
+		"title": "Jardin Completo",
+		"thumbnailUrl": "imgs/spiderman.png"
+	},
+
+	{
+		"precio": 450,
+		"id": 4,
+		"title": "Taza Batman",
+		"thumbnailUrl": "imgs/taza batman.png"
+	}
+]
